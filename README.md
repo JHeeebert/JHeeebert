@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JHeeebert aka Fuzz
-- 👀 I’m interested in fronte end web development and UI/UX design
+- 👀 I’m interested in frontend end web development and UI/UX design
 - - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on anything that will further my knowledge and career
 - 📫 How to reach me wdfuzz8823@gmail.com
