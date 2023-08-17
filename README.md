@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JHeeebert aka Fuzz
-- 👀 I’m interested in frontend end web development and UI/UX design
-- - 🌱 I’m currently learning node.js
+- 👀 I am interested in full stack web development, building computers and travelling worldwide
+- - 🌱 I’m currently learning mongoDB
 - 💞️ I’m looking to collaborate on anything that will further my knowledge and career
 - 📫 How to reach me jheeebertwd@gmail.com
 
