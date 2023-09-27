@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JHeeebert aka Fuzz
 - 👀 I am interested in full stack web development, building computers and travelling worldwide
-- - 🌱 I’m currently learning mongoDB
+- - 🌱 I’m currently learning anything I can add to my full stack arsenal
 - 💞️ I’m looking to collaborate on anything that will further my knowledge and career or some dope projects!!
 - 📫 How to reach me jheeebertwd@gmail.com
 
